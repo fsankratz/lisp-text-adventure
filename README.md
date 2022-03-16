@@ -1,2 +1,2 @@
 # lisp-text-adventure
-A Text Adventure Creation Framework in Common Lisp
+A Text Adventure creation Macro that defines minimal syntax for decision trees
