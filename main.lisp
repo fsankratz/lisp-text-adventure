@@ -1,8 +1,4 @@
-#|
-(defun do-something ()
-  (format t "did something"))
-|#
-;; Example Code that Macro Should Expand to
+;; This is an example of what the macro expands to
 #|
 (loop
  (format t "End? [y]~%")
